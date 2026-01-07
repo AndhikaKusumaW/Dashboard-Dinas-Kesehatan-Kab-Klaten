@@ -191,4 +191,4 @@ if upload_file is not None:
         st.error("Gagal membaca file.")
 
 else:
-    st.info("Silakan ulangi upload file.")
+    st.info("Silakan upload file disidebar kiri.")
